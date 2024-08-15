@@ -5,6 +5,3 @@
 [submodule "E4tools"]
 	path = E4tools
 	url = https://github.com/cran/E4tools
-[submodule "EMAtools"]
-	path = EMAtools
-	url = https://github.com/ekleiman1/ematools
